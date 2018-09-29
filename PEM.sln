@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEM", "PEM\PEM.csproj", "{87F49854-BC0A-43F2-83EE-0091AEF00AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Debug|x86.ActiveCfg = Debug|x86
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Debug|x86.Build.0 = Debug|x86
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Release|x86.ActiveCfg = Release|x86
+		{87F49854-BC0A-43F2-83EE-0091AEF00AD5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04389B5F-EBD8-4EF2-9E48-A88D24ACCC97}
+	EndGlobalSection
+EndGlobal

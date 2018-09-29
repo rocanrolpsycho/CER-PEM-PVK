@@ -1,0 +1,17 @@
+c:\users\jozz\source\repos\PEM\PEM\bin\x86\Debug\PEM.exe.config
+c:\users\jozz\source\repos\PEM\PEM\bin\x86\Debug\PEM.exe
+c:\users\jozz\source\repos\PEM\PEM\bin\x86\Debug\PEM.pdb
+c:\users\jozz\source\repos\PEM\PEM\bin\x86\Debug\ChilkatDotNet46.dll
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.csprojAssemblyReference.cache
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\MainWindow.g.cs
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\App.g.cs
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM_MarkupCompile.cache
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM_MarkupCompile.lref
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\MainWindow.baml
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.g.resources
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.Properties.Resources.resources
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.csproj.GenerateResource.cache
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.csproj.CoreCompileInputs.cache
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.csproj.CopyComplete
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.exe
+c:\users\jozz\source\repos\PEM\PEM\obj\x86\Debug\PEM.pdb

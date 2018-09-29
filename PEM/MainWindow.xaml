@@ -1,0 +1,21 @@
+﻿<Window x:Class="PEM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PEM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="341.153" Width="319.925">
+    <Grid>
+        <Button Content="Generar PEM" HorizontalAlignment="Left" Margin="165,17,0,0" VerticalAlignment="Top" Width="127" Click="Button_Click" Height="29" FontSize="14"/>
+        <Button Content="Buscar" x:Name="Key" HorizontalAlignment="Left" Margin="165,143,0,0" VerticalAlignment="Top" Width="127" Click="Key_Click" Height="33" FontSize="14"/>
+        <Label Content="Seleccione CER " HorizontalAlignment="Left" Margin="23,15,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Seleccione PEM" HorizontalAlignment="Left" Margin="23,93,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="PEM" Content="Buscar" HorizontalAlignment="Left" Margin="165,93,0,0" VerticalAlignment="Top" Width="127" Click="PEM_Click" Height="33" FontSize="14"/>
+        <Label Content="Seleccione KEY" HorizontalAlignment="Left" Margin="23,143,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Button Content="Generar P12" HorizontalAlignment="Left" Margin="165,245,0,0" VerticalAlignment="Top" Width="127" Click="Button_Click_1" Height="29" FontSize="14"/>
+        <Label Content="Contraseña" HorizontalAlignment="Left" Margin="23,193,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="txt_Pass" HorizontalAlignment="Left" Height="31" Margin="165,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127"/>
+
+    </Grid>
+</Window>
