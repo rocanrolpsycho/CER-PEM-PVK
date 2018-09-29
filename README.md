@@ -1,5 +1,5 @@
 
-<img src="Capture.png" title="WPF" alt="WPF">
+<img src="https://raw.githubusercontent.com/rocanrolpsycho/WPF_CER-to-PEM-to-PVK/master/Capture.PNG" title="WPF" alt="WPF">
 
 ## Documentation 
 
